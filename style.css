@@ -1,7 +1,10 @@
 body {
 background-color: rgb(107,184,130);
-font-size: 20px;
 }
 h1 {
-	position: absolute;
+	font-size: 20px;
+}
+.generalidea {
+	font-family: Helvetica;
+	font
 }
