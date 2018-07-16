@@ -3,18 +3,19 @@ background-color: rgb(107,184,130);
 }
 
 h1 {
-	font-size: 20px;
-<<<<<<< HEAD
+	font-size: 30px;
 	font-family: Helvetica;
 	color: white;
+	margin-top: 0px;
 }
 
 .wasteImage {
-	
-=======
+	margin-left: 250px;
 }
-.generalidea {
-	font-family: Helvetica;
-	font
->>>>>>> 2082218ca5a25e49da6b8aba7d20e986a8db6676
+
+.wrapper {
+	display: grid;
+	grid-template-columns: auto 25% 25% auto;
+	grid-template-rows: 50% 50%;
+	border: 2px solid black;
 }
