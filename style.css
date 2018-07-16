@@ -4,7 +4,6 @@ background-color: rgb(107,184,130);
 
 h1 {
 	font-size: 20px;
-<<<<<<< HEAD
 	font-family: Helvetica;
 	color: white;
 }
@@ -13,8 +12,14 @@ h1 {
 	
 =======
 }
-.generalidea {
+.wrapper {
 	font-family: Helvetica;
-	font
->>>>>>> 2082218ca5a25e49da6b8aba7d20e986a8db6676
+	color: black;
+	border: 1px;
+}
+h2{
+	font-size: 20px;
+}
+p {
+	font-size: 15px;
 }
