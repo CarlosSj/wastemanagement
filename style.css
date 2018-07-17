@@ -75,7 +75,7 @@ h2 {
 	font-size: 20px;
 }
 
-.wasteManagement img {
+.trashSeperation img {
 	position: absolute;
 	margin-top: 1550px;
 	width: 50%;
@@ -100,17 +100,17 @@ h2 {
 	font-size: 20px;
 }
 
-.trashSeperation img {
+.wasteManagement img {
 	position: absolute;
-	margin-top: 2000px;
-	margin-left: 200px;
+	margin-top: 2120px;
+	margin-left: -10px;
 	width: 50%;
 	height: auto;
 	
 }
 .Q3Header {
 	position: absolute;
-	margin-top: 2100px;
+	margin-top: 2150px;
 	margin-left: 700px;
 	font-family: Avenir;
 	font-size: 30px;
@@ -118,7 +118,7 @@ h2 {
 
 .Q3 {
 	position: absolute;
-	margin-top: 2200px;
+	margin-top: 2250px;
 	margin-left: 700px;
 	max-width: 400px;
 	font-family: Avenir;
