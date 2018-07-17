@@ -1,10 +1,11 @@
-.homeTreeImage img {
+.homeTreeImage {
 	position: absolute;
 	margin-left: -10px;
 	margin-top: -10px;
 	z-index: -1;
 	width: 100%;
 	height: auto;
+	background-image: url("homeTree.jpg");
 }
 
 h1 {
