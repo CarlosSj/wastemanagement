@@ -74,3 +74,28 @@ h2 {
 	font-family: Avenir;
 	font-size: 20px;
 }
+
+.wasteManagement img {
+	position: absolute;
+	margin-top: 1550px;
+	width: 50%;
+	height: auto;
+	margin-left: 667px;
+}
+
+.Q2Header {
+	position: absolute;
+	margin-top: 1600px;
+	margin-left: 200px;
+	font-family: Avenir;
+	font-size: 30px;
+}
+
+.Q2 {
+	position: absolute;
+	margin-top: 1700px;
+	margin-left: 200px;
+	max-width: 400px;
+	font-family: Avenir;
+	font-size: 20px;
+}
