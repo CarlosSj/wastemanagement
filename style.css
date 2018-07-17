@@ -11,18 +11,27 @@ body {
 }
 
 h1 {
-	position: absolute;
-	margin-top: 0px;
-	margin-left: 5px;
 	font-size: 40px;
 	font-family: Helvetica;
 	color: white;
+	float: left;
+	margin-top: 0px;
 }
 
 h2 {
 	color: white;
 	font-family: Helvetica;
 	font-size: 100px;
+}
+
+.titles {
+}
+
+.articles {
+	font-family: Helvetica;
+	font-size: 30px;
+	color: white;
+	float: right;
 }
 
 .learn {
@@ -127,10 +136,18 @@ h2 {
 	font-size: 20px;
 }
 
+.trashPile img {
+	position: absolute;
+	margin-top: 2600px;
+	width: 50%;
+	height: auto;
+	right: 0;	
+}
+
 .Q4Header {
     position: absolute;
 	margin-top: 2600px;
-	margin-left: 150px;
+	margin-left: 130px;
 	max-width: 500px;
 	font-family: Avenir;
 	font-size: 30px; 
@@ -139,8 +156,8 @@ h2 {
 .Q4 {
     position: absolute;
 	margin-top: 2700px;
-	margin-left: 150px;
-	max-width: 400px;
+	margin-left: 130px;
+	max-width: 450px;
 	font-family: Avenir;
 	font-size: 20px;
 }
