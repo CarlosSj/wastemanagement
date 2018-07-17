@@ -1,43 +1,76 @@
-body {
-background-color: rgb(107,184,130);
-font-family: Helvetica;
+.homeTreeImage{
+	position: absolute;
+	margin-left: -10px;
+	margin-top: -10px;
+	z-index: -1;
 }
 
 h1 {
-	font-size: 30px;
-	color: white;
+	position: absolute;
 	margin-top: 0px;
-}
-
-.wasteImage{
-	position: absolute;
-	margin-left: 100px;
-	width: 50%;
-}
-
-.street{
-	position: absolute;
-	margin-left: 700px;
-}
-
-.wrapper {
-	display: grid;
-	position: static;
-	grid-template-columns: auto auto auto auto;
-	grid-template-rows: auto auto;
-	grid-gap: 50px;
-	margin-top: 500px;
-}
-
-.wrapper > div {
-	border: 2px solid black;
+	margin-left: 5px;
+	font-size: 40px;
+	font-family: Helvetica;
+	color: white;
+	z-index: 1;
 }
 
 h2 {
-	padding: 5px;
+	z-index: 1;
+	color: white;
+	font-family: Helvetica;
+	font-size: 100px;
+}
+
+.learn {
+	position: absolute;
+	margin-left: 105px;
+	margin-top: 100px;
+}
+
+.act {
+	position: absolute;
+	margin-top: 200px;
+	margin-left: 210px;
+}
+
+.explainerHeader {
+	position: absolute;
+	font-family: Avenir;
+	margin-top: 720px;
+	margin-left: 400px;
+	font-size: 30px;
+}
+
+.explainer {
+	position: absolute;
+	font-family: Avenir;
+	margin-top: 800px;
+	margin-left: 200px;
 	font-size: 20px;
 }
-p {
-	padding: 5px;
-	font-size: 15px;
+
+.trashCan img {
+	position: absolute;
+	margin-top: 1100px;
+	width: 50%;
+	height: auto;
+	margin-left: -10px;
+}
+
+.Q1Header {
+	position: absolute;
+	margin-top: 1100px;
+	margin-left: 700px;
+	font-family: Avenir;
+	font-size: 30px;
+}
+
+.Q1 {
+	position: absolute;
+	margin-top: 1200px;
+	margin-left: 700px;
+	max-width: 400px;
+	font-family: Avenir;
+	font-size: 20px;
 }
