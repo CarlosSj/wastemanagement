@@ -7,3 +7,4 @@ window.onscroll = function() {
         nav.classList.remove("titles1");
     }
 }
+

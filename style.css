@@ -19,10 +19,12 @@ body {
 	margin: 0px;
 }
 
-h2 {
+button {
 	color: white;
 	font-family: Helvetica;
 	font-size: 100px;
+	background-color: inherit;
+	border-width: 0px;	
 }
 
 .titles {
