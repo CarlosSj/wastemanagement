@@ -47,14 +47,6 @@ body {
 	color: black;
 }
 
-.showcase {
-	position: absolute;
-	margin-top: 65px;
-	background-color: grey;
-	width: 100%;
-	height: calc(97% - 65px);
-}
-
 /*h1 {
 	position: absolute;
 	margin-top: 80px;
@@ -81,6 +73,14 @@ body {
   	color: black;
   	font-size: 20px;
 }*/
+
+.slideshow-container img {
+	width: 50%;
+}
+
+.slideshow-container {
+	text-align: center;	
+}
 
 .showcaseLeft {
 	position: absolute;
