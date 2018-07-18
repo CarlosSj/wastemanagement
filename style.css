@@ -12,11 +12,14 @@ body {
 	background-image: url("homeTree.jpg");
 }
 
-.titles > h1 {
+.titles a.logo{
 	font-size: 40px;
 	font-family: Helvetica;
 	float: left;
 	margin: 0px;
+	font-weight: bold;
+	text-decoration: none;
+	color: white;
 }
 
 button {
@@ -38,17 +41,27 @@ button {
 .titles1 {
 	border-bottom: 2px solid rgba(0, 0, 0, 1);
 	background-color: white;
-	color: black;
 	z-index: 1;
 }
 
-.titles > h5 {
-	font-family: Helvetica;
+.titles a.articles {
+	color: white;
 	font-size: 30px;
 	float: right;
 	margin-bottom: 0;
 	margin-top: 10px;
 	z-index: 1;
+	font-family: Helvetica;
+	font-weight: bold;
+	text-decoration: none;
+}
+
+.titles1 a.logo {
+	color: black;
+}
+
+.titles1 a.articles {
+	color: black;
 }
 
 .learn {
