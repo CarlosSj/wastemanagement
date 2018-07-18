@@ -17,9 +17,9 @@ body {
 	font-family: Helvetica;
 	float: left;
 	margin: 0px;
-	color: white;
 	font-weight: bold;
 	text-decoration: none;
+	color: white;
 }
 
 h2 {
@@ -39,7 +39,6 @@ h2 {
 .titles1 {
 	border-bottom: 2px solid rgba(0, 0, 0, 1);
 	background-color: white;
-	color: black;
 	z-index: 1;
 }
 
@@ -53,6 +52,14 @@ h2 {
 	font-family: Helvetica;
 	font-weight: bold;
 	text-decoration: none;
+}
+
+.titles1 a.logo {
+	color: black;
+}
+
+.titles1 a.articles {
+	color: black;
 }
 
 .learn {
