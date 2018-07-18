@@ -47,14 +47,6 @@ body {
 	color: grey;
 }
 
-.showcase {
-	position: absolute;
-	margin-top: 65px;
-	background-color: grey;
-	width: 100%;
-	height: calc(97% - 65px);
-}
-
 .grid-container {
 	margin-top: 100px;
   	display: grid;
