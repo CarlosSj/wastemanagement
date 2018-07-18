@@ -65,15 +65,20 @@ h2 {
 .explainerHeader {
 	position: absolute;
 	font-family: Avenir;
+<<<<<<< HEAD
 	margin-top: 720px;
 	text-align: center;
+=======
+	margin-top: 769px;
+	margin-left: 400px;
+>>>>>>> 31ba7d5966daaf3f6409d7ef26f559e73a7f677e
 	font-size: 30px;
 }
 
 .explainer {
 	position: absolute;
 	font-family: Avenir;
-	margin-top: 800px;
+	margin-top: 849px;
 	margin-left: 200px;
 	font-size: 20px;
 }
