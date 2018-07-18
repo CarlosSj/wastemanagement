@@ -32,11 +32,11 @@ body {
 	font-size: 30px;
 	float: right;
 	margin-bottom: 0;
-	margin-top: 10px;
+	margin-top: 5px;
 	font-family: Helvetica;
 	font-weight: bold;
 	text-decoration: none;
-	color: grey;
+	color: black;
 }
 
 .titles1 a.logo {
