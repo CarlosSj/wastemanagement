@@ -4,6 +4,12 @@ body {
 	z-index: -1;
 }
 
+h2 {
+	color: white;
+	font-family: Helvetica;
+	font-size: 100px;
+}
+
 .homeTreeImage {
 	position: absolute;
  	width: 100%;
