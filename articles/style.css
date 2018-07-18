@@ -88,6 +88,8 @@ body {
 	border-radius: 100%;
 	width: 37px;
 	height: 37px;
+	margin-top: 270px;
+	margin-left: 100px;
 }
 
 .showcaseRight {
@@ -96,5 +98,6 @@ body {
 	border-radius: 100%;
 	width: 37px;
 	height: 37px;
-	margin-left: 40px;
+	margin-top: 270px;
+	right: 100px;
 }
