@@ -54,7 +54,6 @@ body {
   	font-family: Avenir;
   	text-decoration: none;
   	color: black;
-  	grid-column-gap: 50px;
 }
 
 .grid-item {
@@ -70,12 +69,11 @@ body {
 
 .grid-item h4 {
 	text-decoration: none;
-  	color: black;
   	font-size: 30px;
+
 }
 
 .grid-item p {
-	margin-right: 100px;
 	padding-right: 0px;
 }
 
