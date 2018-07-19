@@ -66,10 +66,10 @@ body {
 	position: fixed;
 }
 
-.handTrash img {
+.handTrash {
 	position: absolute;
 	float: left;
-	margin-top: 50px;
+	top: 65px;
 }
 
 .ActPageHeader {
@@ -77,7 +77,7 @@ body {
 	font-family: Helvetica;
 	font-size: 40px;
 	left: 65%;
-	top: 60px;
+	top: 70px;
 }
 
 .ActPage {
@@ -85,6 +85,30 @@ body {
 	font-family: Avenir;
 	max-width: 400px;
 	left: 65%;
-	top: 130px;
+	top: 140px;
 	font-size: 24px
+}
+
+.laws {
+	position: absolute;
+	color: black;
+	font-size: 130px;
+	left: 200px;
+	margin-bottom: 0;
+	margin-top: 620px;
+	font-family: Helvetica;
+	font-weight: bold;
+	text-decoration: none;
+}
+
+.items {
+	position: absolute;
+	color: black;
+	font-size: 130px;
+	right: 200px;
+	margin-bottom: 0;
+	margin-top: 620px;
+	font-family: Helvetica;
+	font-weight: bold;
+	text-decoration: none;
 }
