@@ -97,3 +97,7 @@ h1 {
 	align-self: center;
   	justify-content: center;
 }
+
+.grid-item a:hover {
+	color: grey;
+}
