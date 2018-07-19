@@ -2,6 +2,7 @@ body {
 	padding: 0;
 	margin: 0;
 	z-index: -1;
+		background-color: rgb(234, 234, 234);
 }
 
 .titles a.logo{
@@ -20,10 +21,10 @@ body {
 	height: 50px;
 	z-index: 1;
 	top: 0px;
+	background-color: white;
 }
 
 .titles1 {
-	border-bottom: 2px solid rgba(0, 0, 0, 1);
 	background-color: white;
 	z-index: 1;
 }
