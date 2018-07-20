@@ -79,10 +79,12 @@ h1 {
 	max-width: 40%;
 	height: auto;
 	margin-top: 350px;
-
+	left: 0;
+	-webkit-filter: blur(5px);
+    filter: blur(5px);
 }
 
-.items p{
+.item1 p{
 	position: absolute;
 	margin-top: 700px;
 	max-width: 40%;
