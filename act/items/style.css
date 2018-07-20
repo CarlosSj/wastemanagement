@@ -73,3 +73,30 @@ h1 {
 	color: black;
 	position: fixed;
 }
+
+.compostImage img{
+	position: absolute;
+	max-width: 40%;
+	height: auto;
+	margin-top: 350px;
+
+}
+
+.items p{
+	position: absolute;
+	margin-top: 700px;
+	max-width: 40%;
+	margin-left: 25px;
+	font-family: Helvetica;
+	font-size: 20px;
+}
+
+
+
+
+
+
+
+
+
+
