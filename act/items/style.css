@@ -174,14 +174,14 @@ h1 {
   	grid-area: j;
 }
 
-.compostImage img{
+.Electronics img{
 	position: absolute;
 	max-width: 40%;
 	height: auto;
 	margin-top: 350px;
 }
 
-.items p{
+.item1 p{
 	position: absolute;
 	margin-top: 700px;
 	max-width: 40%;
@@ -189,3 +189,41 @@ h1 {
 	font-family: Helvetica;
 	font-size: 20px;
 }
+
+.GasCylinders img{
+	position: absolute;
+
+
+}
+
+.item2 p{
+	position: absolute;
+	margin-top: 700px;
+	max-width: 40%;
+	right: 25px;
+	font-family: Helvetica;
+	font-size: 20px;
+}
+
+.grid-container {
+	/*position: absolute;*/
+	margin-top: 250px;
+	display: grid;
+	width: 100%;
+	grid-template-columns: 40% 40%;
+	font-family: Avenir;
+	left: 0px;	
+	grid-column-gap: 10%;
+}
+
+.grid-item {
+	align-self: center;
+	border: 3px solid black;
+}
+
+
+
+
+
+
+
