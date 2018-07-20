@@ -77,16 +77,17 @@ h1 {
 .grid-container {
 	margin-top: 350px;
 	display: grid;
-	width: 80%;
+	width: 100%;
 	grid-template-columns: auto auto;
 	font-family: Avenir;
 	grid-column-gap: 10%;
-	border: 3px solid black;
+	align-content: center;
 }
 
 .grid-item {
 	justify-content: center;
 	border: 3px solid black;
+	margin: 50px;
 }
 
 
