@@ -5,6 +5,13 @@ body {
 	background-color: rgb(234, 234, 234);
 }
 
+h1 {
+	position: absolute;
+	font-family: Helvetica;
+	font-size: 130px;
+	top: 60px;
+}
+
 .titles a.logo{
 	font-size: 40px;
 	font-family: Helvetica;
