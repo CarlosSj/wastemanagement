@@ -86,16 +86,17 @@ h1 {
 	grid-row-gap: 0;
 }
 
-.grid-item a {
+.grid-item a {		
 	text-decoration: none;
   	color: black;
   	font-size: 20px;
 }
 
 .grid-item {
-/*	border: 3px solid black;*/
+	border: 3px solid black;
 	align-self: center;
   	justify-content: center;
+
 }
 
 .grid-item a:hover {
