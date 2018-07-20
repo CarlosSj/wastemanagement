@@ -5,6 +5,13 @@ body {
 	background-color: rgb(234, 234, 234);
 }
 
+h1 {
+	position: absolute;
+	font-family: Helvetica;
+	font-size: 130px;
+	top: 5px;
+}
+
 .titles a.logo{
 	font-size: 40px;
 	font-family: Helvetica;
@@ -67,7 +74,7 @@ body {
 }
 
 .grid-container {
-	margin-top: 100px;
+	margin-top: 250px;
   	display: grid;
   	grid-template-columns: 50% 50%;
   	font-family: Avenir;
